@@ -18,7 +18,7 @@
 <br>
 * Postgresql
 <br>
-<img src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.120x120.png">
+<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png">
 <br>
 
 
