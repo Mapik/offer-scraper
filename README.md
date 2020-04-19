@@ -12,5 +12,7 @@
 
 # Technology stack
 
-* python3 <img src="https://www.python.org/static/community_logos/python-powered-w-200x80.png">
+* python3 
+<br>
+<img src="https://www.python.org/static/community_logos/python-powered-w-200x80.png">
 * Postgresql
