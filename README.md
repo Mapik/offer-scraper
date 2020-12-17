@@ -1,5 +1,5 @@
 # Webscraper
-> Simple webscraper made with python
+> Simple webscraper made with Ruby
 
 # Description
 
